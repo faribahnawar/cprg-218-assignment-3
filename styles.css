@@ -1,0 +1,275 @@
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+
+body {
+    font-family: "EB Garamond", serif;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    line-height: normal;
+    background-color: #ffffff;
+}
+
+.topnav {
+    background-color: #8EC9DE;
+    overflow: hidden;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .weatherwidget-io {
+    display: block;
+    min-height: 50px;
+    width: 100%;
+}
+
+.weather-widget {
+    display: block;
+    width: 100px;
+    margin-right: 15px;
+    right: 20px;
+}
+
+@media (max-width: 768px) {
+    .weather-widget {
+        margin: 10px;
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+  .book-now-button {
+    background-color: #7ABAB8;
+    color: white;
+    padding: 15px;
+    text-align: right;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 30px;
+    margin: auto;
+    display: inline-block;
+  }
+
+  .header-image {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-and-search {
+    display: flex;
+    align-items: center;
+  }
+  .search-container {
+    display: flex;
+    margin-left: 20px;
+  }
+  .search-input {
+    padding: 8px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+
+  }
+  .search-button {
+    padding: 15px;
+    background-color: #7ABAB8;
+    color: white;
+    border: none;
+    border-radius: 10px;
+  }
+
+  .image-overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    color: #ffffff;
+    font-size: 5rem;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h1, h2, h3 {
+    color: #8ec9de
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+  .testimonials {
+    position: relative;
+    padding: 40px 20px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 40px 0;
+}
+
+.testimonial {
+  background: white;
+  padding: 25px;
+  border-radius: 5px;
+  position: relative;
+  border-top: 5px solid #7ABAB8;
+}
+
+.experiences {
+  padding: 60px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.experiences h2 {
+  text-align: center;
+  color: #8EC9DE;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.experience-rows {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.experience-row {
+  display: flex;
+  gap: 20px;
+}
+
+.experience-col {
+  flex: 5;
+  min-height: 250px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.experience-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 25px;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .experience-row {
+      flex-direction: column;
+  }
+  
+  .experience-col {
+      min-height: 200px;
+  }
+}
+
+.accomodations > div {
+  display: inline-block;
+  width: 500px;
+  margin: 40px;
+  background: white;
+  margin: center;
+}
+
+p{
+  text-align: center;
+ 
+}
+
+.activity {
+  margin: 40px;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+.booking-info {
+  position: relative;
+  padding: 60px;
+  margin: auto;
+  max-width: 800px;
+  color: #000000;
+}
+
+.room-choices{
+  text-align: center;
+  margin: 20px 0;
+}
+.rooms img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.rooms p {
+  text-align: center;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 25px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rooms ul {
+  display: table;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  max-width: 600px;
+}
+
+.restaurant-image-container {
+  text-align: center;
+  margin: auto;
+  position: relative;
+  max-width: 800px;
+}
+
+.restaurant-information img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.restaurant-information li {
+  margin-bottom: 15px;
+  padding-left: 30px;
+  position: relative;
+  line-height: 1.6;
+}
+
+.centered-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 0;
+}
+
+.notes {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
