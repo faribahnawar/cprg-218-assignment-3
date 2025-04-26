@@ -1,19 +1,20 @@
 # cprg-218-assignment-3
-Website Content Attributions
-Photo by Sasha Kaunas on Unsplash
-Photo by David Vives on Unsplash
-Photo by Alex Korolkoff on Unsplash
-Photo by Frames For Your Heart on Unsplash
-Photo by Carlos Javier Yuste Jiménez on Unsplash
-Photo by Shai Pal on Unsplash
-Photo by Kelsey He on Unsplash
-Photo by Shalev Cohen on Unsplash
-Photo by Carl Barcelo on Unsplash
-Photo by Katie Jowett on Unsplash
-Photo by Lawrence Krowdeed on Unsplash
-Photo by Crimson Canna on Unsplash
-Photo by Greg Rivers on Unsplash
-Photo by Jules Cadusseau on Unsplash
-Photo by Timur M on Unsplash
-Photo by Melissa Walker Horn on Unsplash
-Photo by Duc Van on Unsplash
+- Photo by https://unsplash.com/@akaunas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/brown-wooden-table-and-chairs-on-brown-wooden-deck-near-body-of-water-during-daytime-TAgGZWz6Qg8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+- Website Content Attributions
+Photo by https://unsplash.com/@akaunas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/brown-wooden-table-and-chairs-on-brown-wooden-deck-near-body-of-water-during-daytime-TAgGZWz6Qg8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@davidvives?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/brown-beach-umbrellas-on-beach-during-daytime-ELf8M_YWRTY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@koff?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/wide-angle-photo-of-brown-and-blue-building-_6ROq_LmdkM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@framesforyourheart?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/water-fountain-in-the-middle-of-the-pool-CsqHFS6ZXfM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@carlosyustee_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-table-with-a-white-table-cloth-and-wine-glasses-_2whN2oOcgE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@shaipal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/brown-wooden-table-and-chairs-near-sea-during-daytime-56WKMCORs-0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@idwyss?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-view-of-a-beach-from-a-window-bixDvdGqnLY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@shalevcohen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-O5BabB5Oy_M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@barcelocarl?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/woman-doing-yoga-nqUHQkuVj3c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@katieannejowett?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/man-holding-surfingboard-VuJYMf1r06M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@krowdeed?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-person-lying-on-a-beach-reading-a-book--GzMkcQI-Ns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@crimsoncanna?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-man-riding-a-bike-down-a-sandy-beach-next-to-the-ocean-7KU6KbCmZBs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@rivphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/white-bed-near-white-wall-vvYs67H9Y2E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@lejuloo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-group-of-people-sitting-at-wooden-tables-r9VonMzYwzA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@tim_front?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/person-pouring-liquid-on-drinking-glass-j-oPYBW6QjU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@sugercoatit?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/bowl-plate-drinking-glass-and-silverware-on-wooden-tray-table-6bWEi21u6SY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Photo byhttps://unsplash.com/@duke91?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash onhttps://unsplash.com/photos/a-buffet-area-with-a-lot-of-food-on-it-QcI0slWgCkE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
